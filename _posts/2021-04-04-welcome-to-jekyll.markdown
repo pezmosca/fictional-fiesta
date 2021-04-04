@@ -31,4 +31,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 <html>
   <h1>HOLA</h1>
+  <video width="640" height="360" controls>
+        <source src="ex1.mp4#t=5,10" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
 </html>
